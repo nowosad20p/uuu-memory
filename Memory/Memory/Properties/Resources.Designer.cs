@@ -139,5 +139,15 @@ namespace Memory.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Wyszukuje zlokalizowany zasób typu System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pilka_nozna_215cm_bialyczarny_MO9007_33 {
+            get {
+                object obj = ResourceManager.GetObject("pilka-nozna-215cm-bialyczarny-MO9007-33", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

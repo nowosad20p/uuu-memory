@@ -113,5 +113,8 @@
   <ItemGroup>
     <None Include="Resources\mem11.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pilka-nozna-215cm-bialyczarny-MO9007-33.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
